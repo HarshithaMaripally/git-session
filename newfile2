@@ -1,5 +1,11 @@
 new branch file
 edited
+<<<<<<< HEAD
 this change is in mast
 
 new change in  master branch
+=======
+fast foward
+2nd ff
+this is in new branch
+>>>>>>> new-branch
